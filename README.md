@@ -1,2 +1,2 @@
-# tugas-java-konveksi-suhu
-iyan santoso TI.17.C.1
+# konversi-suhu-java
+tugas konverter suhu Muhammad Akip Setiawan 311710481
